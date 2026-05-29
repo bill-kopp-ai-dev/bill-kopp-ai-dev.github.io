@@ -1,0 +1,48 @@
+site_name: Willian Kopp | AI Engineer
+site_description: Portfolio de Engenharia de IA, Agentic AI e MLOps
+site_author: Willian Kopp
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: teal
+    accent: green
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+  extra_css:
+    - stylesheets/extra.css
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: index.md
+  - Agentic AI & Ecosystems:
+      - Percival.OS: projects/percival.md
+      - Open CLI Agents: projects/open-cli-agents.md
+      - MCP Servers: projects/mcp-servers.md
+  - Multimodal & GenAI:
+      - Full Cycle Applications: projects/multimodal-genai.md
+  - Scientific Computing:
+      - Modeling and Optimization (Paper): projects/simulation-software.md
+  - My Journey:
+      - Engineering Philosophy: career/philosophy.md
+      - From Biotechnology to AI: career/biotech.md
