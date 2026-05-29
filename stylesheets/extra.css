@@ -1,0 +1,19 @@
+/* Center Mermaid diagrams */
+.mermaid {
+    display: flex;
+    justify-content: center;
+    margin: 2rem auto;
+}
+
+/* Better spacing around diagrams */
+div.mermaid {
+    padding: 1.5rem;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+/* Ensure SVG scales properly */
+.mermaid svg {
+    max-width: 100%;
+    height: auto;
+}
