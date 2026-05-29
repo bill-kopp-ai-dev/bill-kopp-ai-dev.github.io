@@ -1,6 +1,7 @@
-site_name: Willian Kopp | AI Engineer
+site_name: Bill Kopp | AI Engineer
+site_url: https://bill-kopp-ai-dev.github.io/
 site_description: Portfolio de Engenharia de IA, Agentic AI e MLOps
-site_author: Willian Kopp
+site_author: Bill Kopp
 
 theme:
   name: material
