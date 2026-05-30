@@ -1,7 +1,7 @@
-# Willian Kopp, Ph.D.
+# Bill Kopp, Ph.D.
 **AI & Machine Learning Engineer | Agentic AI & MLOps Specialist**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/willian-kopp-biotech)
 [![GitHub](https://img.shields.io/badge/GitHub-bill--kopp--ai--dev-black?style=flat&logo=github)](https://github.com/bill-kopp-ai-dev)
 
 ---
@@ -53,6 +53,7 @@ Below you will find detailed documentation of the architectures and systems I ha
 
 ### 🧠 Agentic AI & Secure Ecosystems
 * **[Percival.OS](projects/percival.md):** My *Capstone Project*. A personal agentic operating system executed locally. Designed with multi-layered memory architecture (L1 to L4) and absolute focus on *Data Sovereignty* and *Prompt Injection* prevention.
+* **[Open CLI Agents](projects/open-cli-agents.md):** An ecosystem of MCP servers that breaks vendor lock-in of agentic IDEs, providing true "Tooling Sovereignty" with self-managed API quotas.
 * **[MCP Servers Ecosystem](projects/mcp-servers.md):** A technical catalog detailing the development and refactoring of 15 servers based on the *Model Context Protocol*, integrating everything from deep research tools and computer vision to secure Linux system operations.
 
 ### 🎨 Multimodal Applications (*Full Cycle*)

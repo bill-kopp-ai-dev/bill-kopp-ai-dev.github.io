@@ -1,5 +1,7 @@
 # 🛡️ percival.OS — Personal Agentic AI Ecosystem
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-percival.OS-black?style=flat&logo=github)](https://github.com/bill-kopp-ai-dev/percival.OS)
+
 !!! abstract "Executive Summary"
     Percival.OS is a personal agentic operating system (Personal AI Agent Operating System), designed for professionals with high workloads who need a secure, reliable, and locally executed AI assistant. The central mission of the project is not to replace people, but to empower them, automating repetitive tasks and providing 24/7 analytical support under rigorous security standards.
 

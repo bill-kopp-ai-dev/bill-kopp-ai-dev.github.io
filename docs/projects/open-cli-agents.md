@@ -1,6 +1,7 @@
 # 🌌 Open CLI Agents MCP — The Tooling Sovereignty Ecosystem
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-open--cli--agents--mcp-black?style=flat&logo=github)](https://github.com/bill-kopp-ai-dev/open-cli-agents-mcp)
+[![antigravity-cli-mcp](https://img.shields.io/badge/GitHub-antigravity--cli--mcp-blue?style=flat&logo=github)](https://github.com/bill-kopp-ai-dev/antigravity-cli-mcp)
 
 !!! abstract "Executive Summary"
     **Open CLI Agents MCP** is not just an isolated tool, but an **continuously expanding ecosystem** of developer infrastructure (DevTools). Its main goal is to break the *vendor lock-in* of modern agentic IDEs (like Cursor and Windsurf). Through a suite of *Model Context Protocol (MCP)* servers, the project exposes multiple CLI-based programming agents to a single agentic IDE (orchestrator), guaranteeing the developer total freedom of choice, self-managed API quotas, and true "Tooling Sovereignty".

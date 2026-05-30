@@ -36,14 +36,10 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Agentic AI & Ecosystems:
-      - Percival.OS: projects/percival.md
-      - Open CLI Agents: projects/open-cli-agents.md
-      - MCP Servers: projects/mcp-servers.md
-  - Multimodal & GenAI:
-      - Full Cycle Applications: projects/multimodal-genai.md
-  - Scientific Computing:
-      - Modeling and Optimization (Paper): projects/simulation-software.md
-  - My Journey:
-      - Engineering Philosophy: career/philosophy.md
-      - From Biotechnology to AI: career/biotech.md
+  - Percival.OS: projects/percival.md
+  - Open CLI Agents: projects/open-cli-agents.md
+  - MCP Servers: projects/mcp-servers.md
+  - Multimodal GenAI: projects/multimodal-genai.md
+  - Sci Computing: projects/simulation-software.md
+  - Philosophy: career/philosophy.md
+  - Biotech: career/biotech.md

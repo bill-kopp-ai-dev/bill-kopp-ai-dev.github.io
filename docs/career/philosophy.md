@@ -9,7 +9,7 @@
 
     Changing focus at 40 years old, with an already consolidated scientific career, may seem unconventional to some. However, for a scientist driven by solving complex problems, there is nothing more exciting than working on the engineering of a creation that creates itself.
 
-    *— Willian Kopp, May 2026*
+    *— Bill Kopp, May 2026*
 
 ---
 
@@ -22,9 +22,13 @@ The immersion in Steinberger's highly efficient approach to agentic programming 
 > **In the very near future, we will stop producing computers focused on humans and start producing computers for AI Agents, which will operate them for the benefit of humans. The AI Agent will simultaneously be the operating system and the interface.**
 
 In this context, I believe that:
-* AI Agents will be the new **Operating Systems (OS)**;
-* MCP Servers (Model Context Protocol) will be the new **Applications (Apps)**;
-* Specialized agents orchestrated in the cloud (or at the edge) will be the new **SaaS (Software as a Service)**.
+
+!!! info "The New Paradigm"
+    :computer: **AI Agents** will be the new **Operating Systems (OS)**
+
+    :package: **MCP Servers** (Model Context Protocol) will be the new **Applications (Apps)**
+
+    :cloud: Specialized agents orchestrated in the cloud (or at the edge) will be the new **SaaS (Software as a Service)**
 
 ---
 

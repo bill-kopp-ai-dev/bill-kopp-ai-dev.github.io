@@ -68,3 +68,33 @@ The main long-term persistence engine (L2) of the ecosystem. Provides integrated
 
 !!! warning "Deprecation Notice (Google Workspace)"
     The old `google-workspace-mcp` was **deprecated** in the ecosystem due to recurring OAuth token expiration failures and *Data Sovereignty* limitations. It was fully replaced by *Local-first* solutions (`percival-imap-mcp` and `percival-khan-calendar-mcp`), demonstrating the mature evolution of the architecture towards stability and security.
+
+---
+
+## 📚 All MCP Servers Source Code
+
+Below is the complete list of MCP servers that compose the Percival.OS ecosystem:
+
+### 🏗️ Original Servers (Built from Scratch)
+
+| Badge | Repository |
+|-------|------------|
+| [![percival-imap-mcp](https://img.shields.io/badge/percival--imap--mcp-009688?style=flat&logo=github)](https://github.com/bill-kopp-ai-dev/percival-imap-mcp) | percival-imap-mcp |
+| [![merlin-cv-mcp](https://img.shields.io/badge/merlin--cv--mcp-009688?style=flat&logo=github)](https://github.com/bill-kopp-ai-dev/merlin_cv_mcp) | merlin-cv-mcp |
+| [![percival-vision-mcp](https://img.shields.io/badge/percival--vision--mcp-009688?style=flat&logo=github)](https://github.com/bill-kopp-ai-dev/percival_vision_mcp) | percival-vision-mcp |
+| [![percival-khan-calendar-mcp](https://img.shields.io/badge/percival--khan--calendar--mcp-009688?style=flat&logo=github)](https://github.com/bill-kopp-ai-dev/percival-khan-calendar) | percival-khan-calendar-mcp |
+| [![percival-agentmail-mcp](https://img.shields.io/badge/percival--agentmail--mcp-009688?style=flat&logo=github)](https://github.com/bill-kopp-ai-dev/percival-agentmail-mcp) | percival-agentmail-mcp |
+| [![percival-image-creator-mcp](https://img.shields.io/badge/percival--image--creator--mcp-009688?style=flat&logo=github)](https://github.com/bill-kopp-ai-dev/percival_image_creator_mcp) | percival-image-creator-mcp |
+| [![percival-deep-research-mcp](https://img.shields.io/badge/percival--deep--research--mcp-009688?style=flat&logo=github)](https://github.com/bill-kopp-ai-dev/percival-deep-research) | percival-deep-research-mcp |
+| [![percival-weather-mcp](https://img.shields.io/badge/percival--weather--mcp-009688?style=flat&logo=github)](https://github.com/bill-kopp-ai-dev/percival-weather-mcp) | percival-weather-mcp |
+| [![percival-osm-mcp](https://img.shields.io/badge/percival--osm--mcp-009688?style=flat&logo=github)](https://github.com/bill-kopp-ai-dev/percival-osm) | percival-osm-mcp |
+| [![percival-ubuntu-mcp](https://img.shields.io/badge/percival--ubuntu--mcp-009688?style=flat&logo=github)](https://github.com/bill-kopp-ai-dev/percival-ubuntu-mcp) | percival-ubuntu-mcp |
+| [![percival-notes-mcp](https://img.shields.io/badge/percival--notes--mcp-009688?style=flat&logo=github)](https://github.com/bill-kopp-ai-dev/percival-notes-mcp) | percival-notes-mcp |
+| [![percival-internetarchive-mcp](https://img.shields.io/badge/percival--internetarchive--mcp-009688?style=flat&logo=github)](https://github.com/bill-kopp-ai-dev/percival-internetarchive-mcp) | percival-internetarchive-mcp |
+
+### 🔄 Third-Party Servers (Refactored/Integrated)
+
+| Badge | Repository |
+|-------|------------|
+| [![mempalace](https://img.shields.io/badge/mempalace-6c5ce7?style=flat&logo=github)](https://github.com/bill-kopp-ai-dev/mempalace) | mempalace |
+| [![google-workspace-mcp](https://img.shields.io/badge/google--workspace--mcp-636e72?style=flat&logo=github)](https://github.com/bill-kopp-ai-dev/google_workspace_mcp) | google-workspace-mcp |
