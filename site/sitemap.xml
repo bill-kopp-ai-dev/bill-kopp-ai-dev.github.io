@@ -1,3 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://bill-kopp-ai-dev.github.io/</loc>
+         <lastmod>2026-05-30</lastmod>
+    </url>
+    <url>
+         <loc>https://bill-kopp-ai-dev.github.io/career/biotech/</loc>
+         <lastmod>2026-05-30</lastmod>
+    </url>
+    <url>
+         <loc>https://bill-kopp-ai-dev.github.io/career/philosophy/</loc>
+         <lastmod>2026-05-30</lastmod>
+    </url>
+    <url>
+         <loc>https://bill-kopp-ai-dev.github.io/projects/mcp-servers/</loc>
+         <lastmod>2026-05-30</lastmod>
+    </url>
+    <url>
+         <loc>https://bill-kopp-ai-dev.github.io/projects/multimodal-genai/</loc>
+         <lastmod>2026-05-30</lastmod>
+    </url>
+    <url>
+         <loc>https://bill-kopp-ai-dev.github.io/projects/open-cli-agents/</loc>
+         <lastmod>2026-05-30</lastmod>
+    </url>
+    <url>
+         <loc>https://bill-kopp-ai-dev.github.io/projects/percival/</loc>
+         <lastmod>2026-05-30</lastmod>
+    </url>
+    <url>
+         <loc>https://bill-kopp-ai-dev.github.io/projects/simulation-software/</loc>
+         <lastmod>2026-05-30</lastmod>
+    </url>
 </urlset>
